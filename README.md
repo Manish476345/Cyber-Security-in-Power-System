@@ -1,6 +1,6 @@
 # Power System Cyber Attack Simulation
 
-![Project Banner](project_banner_image_url_here)
+![Project Banner](https://drive.google.com/file/d/16_izXHBV9d4gFN7BZUJZUgGT2eI8y--5/view?usp=sharing)
 
 ## Table of Contents
 - [Description](#description)
